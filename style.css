@@ -1,0 +1,33 @@
+div{
+    box-sizing: border-box;
+    margin: 0;
+}
+* ,h1{
+    background-color: rgb(33, 31, 31);
+    color: white;
+    text-align: center;
+}
+.form{
+    /* background-color: rgba(2, 2, 2, 0.697); */
+    text-align: center;
+    
+    height: 50%;
+    margin: auto;
+    border: solid antiquewhite 2px;
+    padding: 5%;
+    border-radius: 15px;
+    width: fit-content;
+}
+input{
+    background-color: rgba(252, 249, 249, 0.511);
+    border-radius: 5px;
+    color: black;
+}
+.comment{
+    color: red;
+    width:100px;
+    margin: auto;
+}
+.result{
+    font-size: x-large;
+}
